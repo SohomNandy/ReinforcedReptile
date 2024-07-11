@@ -15,7 +15,7 @@ This endeavor explores the fundamentals of Reinforcement Learning and Deep Q Lea
 
 ## Project Components
 
-1. **Theoretical Foundation**: In-depth study of Reinforcement Learning and Deep Q Learning concepts.
+1. **Theoretical Foundation**: Learning the basics of Reinforcement Learning and Deep Q Learning concepts.
 
 2. **Game Environment**: Development of a customized Snake game using Pygame, designed specifically for AI interaction.
 
