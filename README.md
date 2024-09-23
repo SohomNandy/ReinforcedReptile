@@ -1,4 +1,4 @@
-# Training AI to Play Snake
+# ReinforcedReptile
 
 This project reimagines the classic Snake game by replacing human control with an AI player, showcasing the power of machine learning in gaming.
 
